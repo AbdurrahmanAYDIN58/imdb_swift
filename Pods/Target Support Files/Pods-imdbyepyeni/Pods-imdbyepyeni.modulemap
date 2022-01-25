@@ -1,0 +1,6 @@
+framework module Pods_imdbyepyeni {
+  umbrella header "Pods-imdbyepyeni-umbrella.h"
+
+  export *
+  module * { export * }
+}

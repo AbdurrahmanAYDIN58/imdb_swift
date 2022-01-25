@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MyCollectionViewCell.favButtonTapped(sender:):MyCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+            <PersistentString
+               value = "idArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FavoriteViewController.favData():FavoriteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "idArray">
+            </PersistentString>
+            <PersistentString
+               value = "favArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IMDBViewController.viewDidLoad():IMDBViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MyCollectionViewCell.setFavs(itemId:):MyCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "idArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyCollectionViewCell.awakeFromNib():MyCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isCouponFav">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in InnerViewController.getDetails(id:):InnerViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FavoriteViewController.collectionView(_:numberOfItemsInSection:):FavoriteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyCollectionViewCell.configure(with:):MyCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "idArray">
+            </PersistentString>
+            <PersistentString
+               value = "isCouponFav">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
